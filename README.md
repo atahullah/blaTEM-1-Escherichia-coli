@@ -59,7 +59,25 @@ This repository contains the computational workflow and analysis performed to in
 - RCSB Protein Data Bank (PDB)
 - PyMOL
 - DynaMut2
+## 📂 Repository Structure
 
+```text
+blaTEM-1-Escherichia-coli/
+├── alignment/
+├── data/
+├── docs/
+├── dynamut2/
+├── figures/
+├── pymol/
+├── results/
+├── scripts/
+├── sequences/
+├── structures/
+├── workflow/
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 ---
 
 ## Mutations Investigated
