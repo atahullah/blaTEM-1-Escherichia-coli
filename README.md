@@ -51,7 +51,7 @@ This repository contains the computational workflow and analysis performed to in
 
 ## Repository Status
 
-This repository documents the computational workflow, analyses, and results of the project. It does not include the university thesis manuscript.
+This repository documents the computational workflow, analyses, and results of the project.
 
 ---
 
