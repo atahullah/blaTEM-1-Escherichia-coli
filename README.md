@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Project Banner" width="100%">
 </p>
+
 # In Silico Structural and Functional Analysis of V184A and I84V Mutations in the blaTEM-1 Gene of *Escherichia coli*
 
 **Repository:** `blaTEM-1-Escherichia-coli`
