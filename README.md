@@ -205,7 +205,7 @@ The analyses included:
 
 The observed differences in residue interactions provide insight into the potential structural consequences of the investigated mutations.
 
-### 4.10 Results Summary
+###  Results Summary
 
 | Interaction Type | I84V Wild Type | I84V Mutant | V184A Wild Type | V184A Mutant |
 |-----------------|---------------:|------------:|----------------:|-------------:|
