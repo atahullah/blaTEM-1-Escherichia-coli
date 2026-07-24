@@ -4,6 +4,11 @@
 
 # In Silico Structural and Functional Analysis of V184A and I84V Mutations in the blaTEM-1 Gene of *Escherichia coli*
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-blue)
+![Organism](https://img.shields.io/badge/Organism-Escherichia_coli-success)
+![Protein](https://img.shields.io/badge/Protein-TEM--1-orange)
+![Mutation](https://img.shields.io/badge/Mutations-I84V%20%7C%20V184A-red)
 **Repository:** `blaTEM-1-Escherichia-coli`
 
 
