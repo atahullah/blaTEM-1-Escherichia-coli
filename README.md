@@ -58,7 +58,7 @@ This repository documents the computational workflow, analyses, and results of t
 
 ## Author
 
-Ataullah
+Atahullah
 
 BS Microbiology
 
