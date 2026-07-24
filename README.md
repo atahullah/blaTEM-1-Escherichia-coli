@@ -1,4 +1,6 @@
-# blaTEM-1-Escherichia-coli
+# In Silico Structural and Functional Analysis of V184A and I84V Mutations in the blaTEM-1 Gene of *Escherichia coli*
+
+**Repository:** `blaTEM-1-Escherichia-coli`
 
 ## In Silico Structural and Functional Analysis of V184A and I84V Mutations in the blaTEM-1 Gene of *Escherichia coli*
 
