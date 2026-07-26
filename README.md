@@ -287,11 +287,12 @@ The authors gratefully acknowledge the developers and maintainers of these scien
 
 **Atahullah**
 
-Bachelor of Science (BS) in Microbiology
+**BS Microbiology Graduate**  
+**Bioinformatics Researcher**
 
-Undergraduate Research Project
-
-GitHub: https://github.com/atahullah
+📧 Email: atahullah.epd.pk@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/atahullah-bioinformatics  
+💻 GitHub: https://github.com/atahullah
 
 ---
 
@@ -307,9 +308,9 @@ For complete license information, see the [LICENSE](LICENSE) file.
 
 <p align="center">
 
-**Developed as part of a Bachelor of Science (BS) in Microbiology research project.**
+**Developed as a supervised undergraduate research project for the Bachelor of Science (BS) in Microbiology.**
 
-*Computational Bioinformatics • Protein Structure Analysis • Antimicrobial Resistance Research*
+*Computational Bioinformatics • Structural Bioinformatics • Protein Structure Analysis • Antimicrobial Resistance Research*
 
 © 2026 Atahullah
 
