@@ -798,7 +798,7 @@ Their continued commitment to open scientific resources has made computational b
 
 **BS Microbiology Graduate**
 
-**Independent Bioinformatics Researcher**
+**Under the supervision of  Dr sajid ali Bioinformatics Researcher**
 
 ---
 
